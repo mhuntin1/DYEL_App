@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DYEL</string>
+    <string name="Title">DO YOU EVEN LIFT!!!</string>
+    <string name="benchPress">Bench Press</string>
+    <string name="curlingTitle">Curls</string>
+    <string name="shoulder_press">Shoulder Press</string>
+    <string name="shoudlderMax">0</string>
+    <string name="curlMax">0</string>
+    <string name="benchMax">0</string>
+    <string name="helpText">Welcome to the DO YOU EVEN LIFT!!! app. In the app, you will be able
+                            to record you personal best for your gym exercises.
+                            \n \nProfile Button: This takes you to the menu where you can record your
+                             personal records! \n \nCompare Button: This allows you to compare your
+                             personal records with your friends. Must be connected via bluetooth
+                             \n \nSave Button: Saves the information in the text fields.
+                             \n \nRate Button:
+                             This rates your personal records that you have entered. Scale is based
+                             on strength.</string>
+</resources>
